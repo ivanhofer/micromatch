@@ -10,8 +10,8 @@ Please consider following this project's author, [Jon Schlinkert](https://github
 <summary><strong>Details</strong></summary>
 
   * [Install](#install)
-- [Sponsors](#sponsors)
-  * [Gold Sponsors](#gold-sponsors)
+  * [Sponsors](#sponsors)
+    + [Gold Sponsors](#gold-sponsors)
   * [Quickstart](#quickstart)
   * [Why use micromatch?](#why-use-micromatch)
     + [Matching features](#matching-features)
